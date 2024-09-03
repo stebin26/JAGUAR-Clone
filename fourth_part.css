@@ -1,0 +1,17 @@
+.fourth_part{
+    width: auto;
+    height: 150px;
+    /* background-color: green; */
+    color: white;
+    margin-top: 40px;
+    margin-left: 30px;
+    display: flex;
+}
+
+.fourth_part h2{
+
+}
+
+.fourth_part h4{
+    margin-left: 100px;
+}

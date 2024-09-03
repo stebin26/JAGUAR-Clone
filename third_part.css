@@ -1,0 +1,17 @@
+.third_part{
+    width:1200px;
+    height: 800px;
+    /* background-color: blue; */
+}
+
+.third_part1{
+    width:1200px;
+    height: 800px;
+    /* background-color: blue; */
+    margin-left: 30px;
+    margin-top: 90px;
+    background-image: url(https://media.licdn.com/dms/image/v2/D4E22AQFjQ3NVjBd-cg/feedshare-shrink_800/feedshare-shrink_800/0/1697548630732?e=2147483647&v=beta&t=8xjFUtXzWOiX2SEpMny6X4kvV88jPwiQT_XG9ayhyAE);
+    background-size: cover; 
+    background-position:center; 
+    
+}

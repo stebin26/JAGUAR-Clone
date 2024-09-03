@@ -1,0 +1,25 @@
+.first_part{
+    width: 1150px;
+    height: 500px;
+    /* background-color: blue; */
+    margin-left: 60px;
+}
+
+#myvideo{
+    outline: none;
+}
+video::-webkit-media-controls {
+    display: none !important;
+  }
+  
+  video::-moz-media-controls {
+    display: none !important;
+  }
+  
+  video::-ms-media-controls {
+    display: none !important;
+  }
+  
+  video::-o-media-controls {
+    display: none !important;
+  }

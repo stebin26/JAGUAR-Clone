@@ -1,0 +1,15 @@
+.footer_part{
+    width: auto;
+    height: 900px;
+    /* background-color: green; */
+    color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer_part div{
+    height: auto;
+    width: 300px;
+    /* background-color: red; */
+}
